@@ -1,0 +1,6 @@
+Python is a popular programming language.
+Python is easy to learn and easy to use.
+Data science uses Python for data analysis.
+Python provides many useful libraries for data science.
+Pandas and NumPy are popular Python libraries.
+Python is widely used in artificial intelligence.
