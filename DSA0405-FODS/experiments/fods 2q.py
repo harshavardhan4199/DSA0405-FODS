@@ -1,0 +1,8 @@
+import pandas as pd
+
+df = pd.read_csv("Sales_data.csv")
+
+average_price = df[df["Month_sales"] == "November"]["Price"].mean()
+
+print("Average price in November 2023 (Past Month):",
+      round(average_price, 2))

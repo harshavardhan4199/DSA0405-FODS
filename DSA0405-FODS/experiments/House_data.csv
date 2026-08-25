@@ -1,0 +1,9 @@
+House_ID,Bedrooms,Bathrooms,Area_sqft,Location,Price
+H001,3,2,1200,Chennai,4500000
+H002,5,3,1800,Chennai,7000000
+H003,4,2,1500,Bangalore,5500000
+H004,6,4,2500,Bangalore,9500000
+H005,2,1,900,Hyderabad,3200000
+H006,5,3,2000,Hyderabad,8000000
+H007,7,4,3000,Delhi,12000000
+H008,3,2,1300,Delhi,5000000
